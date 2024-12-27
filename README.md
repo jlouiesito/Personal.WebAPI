@@ -11,7 +11,7 @@ Program Specifications
 - https://myaccount.google.com/apppasswords
 
 Notes:
-1. The app is needed for the login to be able to use the tokens
+1. The app in gmail is needed for the login, it will be use to send temp password for the users
 2. Import the swagger to bruno if you can't access the swagger when you run the program
 
 
